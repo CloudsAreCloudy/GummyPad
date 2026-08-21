@@ -21,8 +21,8 @@ An ESP32 C3 SuperMini Macropad with 12 Keys, an OLED Display, Rotary Encoder, an
 | ESP32-C3 Super Mini | 2.86$ | 1 | [Purchase Here](https://quartzcomponents.com/products/esp32-c3-super-mini-development-board-with-soldered-headers-hw-466ab?variant=45727228887274)
 | PCB from JLCPCB | 2.18$ | 5 (MOQ) | [Purchase Here](JLCPCB.com) |
 | 3D Printing (Self) | 0$ | 1 | NA |
-| Shipping | 1.78$ | NA | NA |
-| **Total** | 15.39$ | | |
+| Shipping | 2.83$ | NA | NA |
+| **Total** | 16.44$ | | |
 
 ## How can I build it?
  **Required Libraries:**

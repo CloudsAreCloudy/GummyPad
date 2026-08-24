@@ -33,4 +33,8 @@ All you need to do is solder the Capacitors, Display, TP4056 Module, Battery, Di
 
 <img width="1625" height="694" alt="Screenshot 2026-08-20 080231" src="https://github.com/user-attachments/assets/1d301e5c-39aa-4153-8918-4dd3c7c4d402" />
 <img width="1097" height="563" alt="image" src="https://github.com/user-attachments/assets/09a99863-dfe0-454c-b6fd-a1035ca38944" />
+<img width="787" height="636" alt="image" src="https://github.com/user-attachments/assets/cc1fd2f4-3e19-41b0-ae57-fc7c66ac4652" />
+<img width="830" height="844" alt="image" src="https://github.com/user-attachments/assets/de9b24ec-89ac-46ac-81b9-ab8960a247f5" />
+<img width="567" height="538" alt="image" src="https://github.com/user-attachments/assets/6ce8c475-a22e-46db-8105-e748ed2fb644" />
+<img width="841" height="645" alt="image" src="https://github.com/user-attachments/assets/b3fc496c-3e31-4caa-9643-2c2c669cc367" />
 

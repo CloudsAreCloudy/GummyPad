@@ -31,6 +31,14 @@ An ESP32 C3 SuperMini Macropad with 12 Keys, an OLED Display, Rotary Encoder, an
 
 All you need to do is solder the Capacitors, Display, TP4056 Module, Battery, Diodes, Switches, Rotary Encoder, and LEDs onto the PCB, 3D Print the case and use a soldering iron to push the heat set inserts into place (M2.5 screws intentionally dont have heat set inserts), flash the ESP32-C3 Super Mini with CircuitPython, Load the code.py file into the root along with the KMK files and the specified libraries, and you should be good to go!
 
+## Files more than 25MB
+[Download F3D file here!](https://drive.google.com/file/d/1gk1wtMpRvB5-kJI8xwt2NUi1Eb32vhJf/view?usp=drive_link) <br>
+[Download Assembled STEP file here!](https://drive.google.com/file/d/1mTOLpklVM8ClC1Ppk3ilGY2UxIY4bcjy/view?usp=sharing)
+<br>
+**------------------------------------------------**
+<br>
+<br>
+
 <img width="1625" height="694" alt="Screenshot 2026-08-20 080231" src="https://github.com/user-attachments/assets/1d301e5c-39aa-4153-8918-4dd3c7c4d402" />
 <img width="1097" height="563" alt="image" src="https://github.com/user-attachments/assets/09a99863-dfe0-454c-b6fd-a1035ca38944" />
 <img width="787" height="636" alt="image" src="https://github.com/user-attachments/assets/cc1fd2f4-3e19-41b0-ae57-fc7c66ac4652" />

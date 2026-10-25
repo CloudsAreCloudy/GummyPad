@@ -27,13 +27,19 @@ An ESP32 C3 SuperMini Macropad with 12 Keys, an OLED Display, Rotary Encoder, an
 ## How can I build it?
  **Required Libraries:**
 - ADAFRUIT_SSD1306
-- KMK_Firmware
+- Adafruit BusIO
+- Adafruit GFX Library
+- Adafruit Neopixel
+- Keypad by Mark Stanley and Alexander Brevig
+- NimBLE-Arduino
+- Rotary Encoder by Matthias Hertel
 
-All you need to do is solder the Capacitors, Display, TP4056 Module, Battery, Diodes, Switches, Rotary Encoder, and LEDs onto the PCB, 3D Print the case and use a soldering iron to push the heat set inserts into place (M2.5 screws intentionally dont have heat set inserts), flash the ESP32-C3 Super Mini with CircuitPython, Load the code.py file into the root along with the KMK files and the specified libraries, and you should be good to go!
+
+All you need to do is solder the Capacitors, Display, TP4056 Module, Battery, Diodes, Switches, Rotary Encoder, and LEDs onto the PCB, 3D Print the case and use a soldering iron to push the heat set inserts into place (M2.5 screws intentionally dont have heat set inserts), compile and upload the macropad.ino file onto the ESP32, and you should be good to go! By default the macropad uses F13-F24, which you can reprogram to do various things in your operating system of choice :D
 
 ## Files more than 25MB
-[Download F3D file here!](https://drive.google.com/file/d/1gk1wtMpRvB5-kJI8xwt2NUi1Eb32vhJf/view?usp=drive_link) <br>
-[Download Assembled STEP file here!](https://drive.google.com/file/d/1mTOLpklVM8ClC1Ppk3ilGY2UxIY4bcjy/view?usp=sharing)
+[Download F3D file here!](https://drive.google.com/file/d/1IniMza_yKS0Taz5GG_T-p-VxVlQoaIGq/view?usp=drive_link) <br>
+[Download Assembled STEP file here!](https://drive.google.com/file/d/1E9eQrAUTnUo944QDMf3ixqt9oS76ekv8/view?usp=drive_link)
 <br>
 **------------------------------------------------**
 <br>

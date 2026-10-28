@@ -7,9 +7,9 @@ created_at: "2026-06-30"
 
 # 2026-10-28: Fixed the F3D file and STEP file not being in GitHub
 
-**Total time spent: 1h 9m**
+**Total time spent: 1h 15m**
 
-The F3D file and the STEP file were too big to be uploaded, so I used the google drive link's I used last time when I did design review, but I was told to upload it to gh still, using gh desktop since that apparently allows for higher uploads but it still wouldn't let me upload it since it was above 100MB, so I created an assembly in Fusion with all the STEP files since that's lighter (which I didn't know at the time of creating this), and exported the F3Z file and STEP file after that. Although the F3Z file was still over by like mere kb, I was able to get the STEP file at a way smaller size, so I just zipped the F3Z file into 2 different zips with the .001 and .002 thing, and hopefully that's good enough cuz I don't think I can get it under 100MB.
+The F3D file and the STEP file were too big to be uploaded, so I used the google drive link's I used last time when I did design review, but I was told to upload it to gh still, using gh desktop since that apparently allows for higher uploads but it still wouldn't let me upload it since it was above 100MB, so I created an assembly in Fusion with all the STEP files since that's lighter (which I didn't know at the time of creating this), and exported the F3Z file and STEP file after that. Although the F3Z file was still over by like mere kb, I was able to get the STEP file at a way smaller size, so I just zipped the F3Z file into 2 different zips with the .001 and .002 thing, and hopefully that's good enough cuz I don't think I can get it under 100MB. I also made the demo video and uploaded that too :D
 
 ![image.png](https://cdn.hackclub.com/01a18287-913d-7a3b-a605-a805b5b54315/Screenshot%202026-10-28%20181101.png)
 

@@ -37,6 +37,8 @@ An ESP32 C3 SuperMini Macropad with 12 Keys, an OLED Display, Rotary Encoder, an
 
 All you need to do is solder the Capacitors, Display, TP4056 Module, Battery, Diodes, Switches, Rotary Encoder, and LEDs onto the PCB, 3D Print the case and use a soldering iron to push the heat set inserts into place (M2.5 screws intentionally dont have heat set inserts), compile and upload the macropad.ino file onto the ESP32, and you should be good to go! By default the macropad uses F13-F24, which you can reprogram to do various things in your operating system of choice :D
 
+## [Demo Video](https://youtu.be/8k5XH5p4000)
+
 ## Files more than 25MB
 [Download F3D file here!](https://drive.google.com/file/d/1IniMza_yKS0Taz5GG_T-p-VxVlQoaIGq/view?usp=drive_link) <br>
 [Download Assembled STEP file here!](https://drive.google.com/file/d/1E9eQrAUTnUo944QDMf3ixqt9oS76ekv8/view?usp=drive_link)
